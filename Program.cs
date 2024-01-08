@@ -26,11 +26,11 @@ namespace sayitahmin
                 {
                     if (numberrnd < thmn)
                     {
-                        Console.WriteLine("Sayı Büyük");
+                        Console.WriteLine("Girilen Sayı Büyük");
                     }
                     else if (numberrnd > thmn)
                     {
-                        Console.WriteLine("Sayı Küçük");
+                        Console.WriteLine("Girilen Sayı Küçük");
                     }
                     Console.WriteLine("{0} Deneme hakkınız kaldı " , hak - i -1);
                 }
