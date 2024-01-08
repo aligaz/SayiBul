@@ -1,0 +1,7 @@
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayitahmin\bin\Debug\sayitahmin.exe.config
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayitahmin\bin\Debug\sayitahmin.exe
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayitahmin\bin\Debug\sayitahmin.pdb
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayitahmin\obj\Debug\sayitahmin.csproj.AssemblyReference.cache
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayitahmin\obj\Debug\sayitahmin.csproj.CoreCompileInputs.cache
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayitahmin\obj\Debug\sayitahmin.exe
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayitahmin\obj\Debug\sayitahmin.pdb
